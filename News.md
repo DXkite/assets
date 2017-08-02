@@ -1,6 +1,6 @@
 ## 计科入学须知
 
-#### 第一条 本须知面向对象为暑期可自学人员、所有条例均为本校内容
+#### 第一条 本须知面向对象为暑期可自学人员、所有条例均为本校内容，第三第四条计算机软件通用
 
 #### 第二条 计算机专业基本教学内容
 
@@ -36,3 +36,4 @@
  - C语言： Code::blocks 、Dev C++、[C4droid](http://tieba.baidu.com/f?kw=c4droid)（Android程序）
  - JAVA编程：Eclipse、[AIDE](http://tieba.baidu.com/f?kw=AIDE)（Android App）
  - Android编程: Android Studio
+ - [C4droid 下载](http://pan.baidu.com/s/1hrHi2bE)
