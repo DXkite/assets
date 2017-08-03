@@ -37,3 +37,6 @@
  - JAVA编程：Eclipse、[AIDE](http://tieba.baidu.com/f?kw=AIDE)（Android App）
  - Android编程: Android Studio
  - [C4droid 下载](http://pan.baidu.com/s/1hrHi2bE)
+ 
+ #### 第五条 新生FAQ
+[点击FAQ查看](FAQ.md)
